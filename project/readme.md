@@ -63,8 +63,7 @@ A responsive dashboard built for Cuvette Tech's assessment platform, showcasing 
 1. **Clone the repository**
 
 ```bash
-git clone https://github.com/yourusername/html-assessment-dashboard.git
-cd html-assessment-dashboard
+git clone https://github.com/Priyanshuraj21030/Dashboard.git
 ```
 
 2. **Install dependencies**
@@ -79,18 +78,6 @@ npm install
 npm run dev
 ```
 
-4. **Build for production**
-
-```bash
-npm run build
-```
-
-5. **Start production server**
-
-```bash
-npm start
-```
-
 ## Project Structure
 
 ```
@@ -103,8 +90,6 @@ project/
 ├── public/            # Static assets
 └── styles/           # Global styles
 ```
-
-## Environment Setup
 
 ### Requirements
 
