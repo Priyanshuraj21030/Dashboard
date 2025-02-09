@@ -121,3 +121,4 @@ npm run dev
 - Built with [Next.js](https://nextjs.org/)
 - UI components from [shadcn/ui](https://ui.shadcn.com/)
 - Charts powered by [Recharts](https://recharts.org/)
+```
