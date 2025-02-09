@@ -69,6 +69,7 @@ git clone https://github.com/Priyanshuraj21030/Dashboard.git
 2. **Install dependencies**
 
 ```bash
+cd project
 npm install
 ```
 
